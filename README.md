@@ -2,8 +2,8 @@
 
 ## Hi there. I'm Rifat...👋
 
-- 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | Python)
-- 🌱 I’m currently learning backend development (MongoDB | Django)
+- 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | Redux | NextJS)
+- 🌱 I’m currently learning backend development (MongoDB | NodeJS | NestJS | PHP(Laravel))
 - 💬 Ask me about anything that you want to learn 
 
 ## 👨👩 Social
