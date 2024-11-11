@@ -13,7 +13,7 @@ Hi there, I'm Rifat! 👋
   <a href="https://www.linkedin.com/in/rifat-kazak-074677208/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:rifat.kazak@gmail.com" target="_blank">
+  <a href="mailto:rifatkzk91@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
   </a>
   <a href="https://medium.com/@rifat.kazak" target="_blank">
