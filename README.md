@@ -1,6 +1,6 @@
 Hi there, I'm Rifat! 👋
 
-🔭 Currently Working On: Full-stack development, with a focus on frontend (JavaScript | React | Svelte | Next.js)
+🔭 Currently Working On: Full-stack development, with a focus on frontend (JavaScript | React | Svelte  | Python )
 
 🌱 Expanding Skills: Actively learning and contributing to backend projects using Python, NestJS, and Svelte
 
